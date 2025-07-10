@@ -13,6 +13,21 @@ Collection of HackerRank solution
 
 ## Hashmaps
 
-|                                                                               |
-|-------------------------------------------------------------------------------|
-| [two-strings](https://github.com/ymanshur/hackerrank/tree/master/two-strings) |
+|                                                                                         |
+|-----------------------------------------------------------------------------------------|
+| [two-strings](https://github.com/ymanshur/hackerrank/tree/master/two-strings)           |
+| [ctci-ransom-note](https://github.com/ymanshur/hackerrank/tree/master/ctci-ransom-note) |
+
+## Sorting
+
+|                                                                                         |
+|-----------------------------------------------------------------------------------------|
+| [mark-and-toys](https://github.com/ymanshur/hackerrank/tree/master/mark-and-toys)       |
+| [ctci-bubble-sort](https://github.com/ymanshur/hackerrank/tree/master/ctci-bubble-sort) |
+
+## String Manipulation
+
+|                                                                                                     |
+|-----------------------------------------------------------------------------------------------------|
+| [alternating-characters](https://github.com/ymanshur/hackerrank/tree/master/alternating-characters) |
+| [ctci-making-anagrams](https://github.com/ymanshur/hackerrank/tree/master/ctci-making-anagrams)     |
