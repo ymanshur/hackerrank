@@ -13,10 +13,11 @@ Collection of HackerRank solution
 
 ## Hashmaps
 
-|                                                                                         |
-|-----------------------------------------------------------------------------------------|
-| [two-strings](https://github.com/ymanshur/hackerrank/tree/master/two-strings)           |
-| [ctci-ransom-note](https://github.com/ymanshur/hackerrank/tree/master/ctci-ransom-note) |
+|                                                                                                   |
+|---------------------------------------------------------------------------------------------------|
+| [two-strings](https://github.com/ymanshur/hackerrank/tree/master/two-strings)                     |
+| [ctci-ransom-note](https://github.com/ymanshur/hackerrank/tree/master/ctci-ransom-note)           |
+| [ctci-ice-cream-parlor](https://github.com/ymanshur/hackerrank/tree/master/ctci-ice-cream-parlor) |
 
 ## Sorting
 
@@ -39,3 +40,22 @@ Collection of HackerRank solution
 |-----------------------------------------------------------------------------------------------------|
 | [alternating-characters](https://github.com/ymanshur/hackerrank/tree/master/alternating-characters) |
 | [ctci-making-anagrams](https://github.com/ymanshur/hackerrank/tree/master/ctci-making-anagrams)     |
+
+## Search
+
+|                                                                                                   |
+|---------------------------------------------------------------------------------------------------|
+| [swap-nodes-algo](https://github.com/ymanshur/hackerrank/tree/master/swap-nodes-algo)             |
+| [ctci-ice-cream-parlor](https://github.com/ymanshur/hackerrank/tree/master/ctci-ice-cream-parlor) |
+
+## Trees
+
+|                                                                                       |
+|---------------------------------------------------------------------------------------|
+| [swap-nodes-algo](https://github.com/ymanshur/hackerrank/tree/master/swap-nodes-algo) |
+
+## Stacks and Queues
+
+|                                                                                       |
+|---------------------------------------------------------------------------------------|
+| [swap-nodes-algo](https://github.com/ymanshur/hackerrank/tree/master/swap-nodes-algo) |
