@@ -25,6 +25,14 @@ Collection of HackerRank solution
 | [mark-and-toys](https://github.com/ymanshur/hackerrank/tree/master/mark-and-toys)       |
 | [ctci-bubble-sort](https://github.com/ymanshur/hackerrank/tree/master/ctci-bubble-sort) |
 
+## Greedy
+
+|                                                                                                                                       |
+|---------------------------------------------------------------------------------------------------------------------------------------|
+| [mark-and-toys](https://github.com/ymanshur/hackerrank/tree/master/mark-and-toys)                                                     |
+| [luck-balance](https://github.com/ymanshur/hackerrank/tree/master/luck-balance)                                                       |
+| [minimum-absolute-difference-in-an-array](https://github.com/ymanshur/hackerrank/tree/master/minimum-absolute-difference-in-an-array) |
+
 ## String Manipulation
 
 |                                                                                                     |
