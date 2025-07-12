@@ -72,3 +72,10 @@ Collection of HackerRank solution
 |-|
 | [ctci-queue-using-two-stacks](ctci-queue-using-two-stacks) |
 | [balanced-brackets](balanced-brackets) |
+
+## Stacks and Queues
+
+| |
+|-|
+| [find-the-nearest-clone](find-the-nearest-clone) |
+| [torque-and-development](torque-and-development) |
