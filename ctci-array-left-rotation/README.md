@@ -19,6 +19,7 @@ a = {4 5 1 2 3} -> done with r iteration
 3. append the a to a2, from [0] to [r-1]
 
 a = {1 2 3 4 5} -> a2 = {4 5}
+
 a = {1 2 3}     -> a2 = {4 5} + {1 2 3}
 
 ### Expected approach ~> O(n) time, O(1) space

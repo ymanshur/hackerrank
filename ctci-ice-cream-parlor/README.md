@@ -1,3 +1,5 @@
+# [ctci-ice-cream-parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem)
+
 ## NOTES
 
 - You must print the smaller ID first and the larger ID second

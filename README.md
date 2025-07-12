@@ -5,56 +5,56 @@ Collection of HackerRank solution
 
 ## Arrays
 
-|                                                                                                         |
-|---------------------------------------------------------------------------------------------------------|
-| [2d-array](https://github.com/ymanshur/hackerrank/tree/master/2d-array)                                 |
+| |
+|-|
+| [2d-array](2d-array) |
 | [ctci-array-left-rotation](ctci-array-left-rotation) |
 
 ## Hashmaps
 
-|                                                                                                   |
-|---------------------------------------------------------------------------------------------------|
-| [two-strings](https://github.com/ymanshur/hackerrank/tree/master/two-strings)                     |
-| [ctci-ransom-note](https://github.com/ymanshur/hackerrank/tree/master/ctci-ransom-note)           |
-| [ctci-ice-cream-parlor](https://github.com/ymanshur/hackerrank/tree/master/ctci-ice-cream-parlor) |
+| |
+|-|
+| [two-strings](two-strings) |
+| [ctci-ransom-note](ctci-ransom-note) |
+| [ctci-ice-cream-parlor](ctci-ice-cream-parlor) |
 
 ## Sorting
 
-|                                                                                         |
-|-----------------------------------------------------------------------------------------|
-| [mark-and-toys](https://github.com/ymanshur/hackerrank/tree/master/mark-and-toys)       |
-| [ctci-bubble-sort](https://github.com/ymanshur/hackerrank/tree/master/ctci-bubble-sort) |
+| |
+|-|
+| [mark-and-toys](mark-and-toys) |
+| [ctci-bubble-sort](ctci-bubble-sort) |
 
 ## Greedy
 
-|                                                                                                                                       |
-|---------------------------------------------------------------------------------------------------------------------------------------|
-| [mark-and-toys](https://github.com/ymanshur/hackerrank/tree/master/mark-and-toys)                                                     |
-| [luck-balance](https://github.com/ymanshur/hackerrank/tree/master/luck-balance)                                                       |
-| [minimum-absolute-difference-in-an-array](https://github.com/ymanshur/hackerrank/tree/master/minimum-absolute-difference-in-an-array) |
+| |
+|-|
+| [mark-and-toys](mark-and-toys) |
+| [luck-balance](luck-balance) |
+| [minimum-absolute-difference-in-an-array](minimum-absolute-difference-in-an-array) |
 
 ## String Manipulation
 
-|                                                                                                     |
-|-----------------------------------------------------------------------------------------------------|
-| [alternating-characters](https://github.com/ymanshur/hackerrank/tree/master/alternating-characters) |
-| [ctci-making-anagrams](https://github.com/ymanshur/hackerrank/tree/master/ctci-making-anagrams)     |
+| |
+|-|
+| [alternating-characters](alternating-characters) |
+| [ctci-making-anagrams](ctci-making-anagrams) |
 
 ## Search
 
-|                                                                                                   |
-|---------------------------------------------------------------------------------------------------|
-| [swap-nodes-algo](https://github.com/ymanshur/hackerrank/tree/master/swap-nodes-algo)             |
-| [ctci-ice-cream-parlor](https://github.com/ymanshur/hackerrank/tree/master/ctci-ice-cream-parlor) |
+| |
+|-|
+| [swap-nodes-algo](swap-nodes-algo) |
+| [ctci-ice-cream-parlor](ctci-ice-cream-parlor) |
 
 ## Trees
 
-|                                                                                       |
-|---------------------------------------------------------------------------------------|
-| [swap-nodes-algo](https://github.com/ymanshur/hackerrank/tree/master/swap-nodes-algo) |
+| |
+|-|
+| [swap-nodes-algo](swap-nodes-algo) |
 
 ## Stacks and Queues
 
-|                                                                                       |
-|---------------------------------------------------------------------------------------|
-| [swap-nodes-algo](https://github.com/ymanshur/hackerrank/tree/master/swap-nodes-algo) |
+| |
+|-|
+| [swap-nodes-algo](swap-nodes-algo) |
