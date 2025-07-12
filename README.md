@@ -52,8 +52,8 @@ Collection of HackerRank solution
 | |
 |-|
 | [swap-nodes-algo](swap-nodes-algo) |
-
-## Stacks and Queues
+| [binary-search-tree-lowest-common-ancestor](binary-search-tree-lowest-common-ancestor) |
+| [tree-height-of-a-binary-tree](tree-height-of-a-binary-tree) |
 
 | |
 |-|
@@ -73,9 +73,9 @@ Collection of HackerRank solution
 | [ctci-queue-using-two-stacks](ctci-queue-using-two-stacks) |
 | [balanced-brackets](balanced-brackets) |
 
-## Stacks and Queues
+## Graphs
 
 | |
 |-|
 | [find-the-nearest-clone](find-the-nearest-clone) |
-| [torque-and-development](torque-and-development) |
+| [tree-height-of-a-binary-tree](tree-height-of-a-binary-tree) |
