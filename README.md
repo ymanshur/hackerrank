@@ -79,3 +79,10 @@ Collection of HackerRank solution
 |-|
 | [find-the-nearest-clone](find-the-nearest-clone) |
 | [tree-height-of-a-binary-tree](tree-height-of-a-binary-tree) |
+
+## Linked List
+
+| |
+|-|
+| [insert-a-node-into-a-sorted-doubly-linked-list](insert-a-node-into-a-sorted-doubly-linked-list) |
+| [insert-a-node-at-a-specific-position-in-a-linked-list](insert-a-node-at-a-specific-position-in-a-linked-list) |
