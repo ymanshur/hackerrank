@@ -65,6 +65,7 @@ Collection of HackerRank solution
 |-|
 | [abbr](abbr) |
 | [max-array-sum](max-array-sum) |
+| [ctci-fibonacci-numbers](ctci-fibonacci-numbers) |
 
 ## Stacks and Queues
 
@@ -86,3 +87,9 @@ Collection of HackerRank solution
 |-|
 | [insert-a-node-into-a-sorted-doubly-linked-list](insert-a-node-into-a-sorted-doubly-linked-list) |
 | [insert-a-node-at-a-specific-position-in-a-linked-list](insert-a-node-at-a-specific-position-in-a-linked-list) |
+
+## Recursion and Backtraking
+
+| |
+|-|
+| [ctci-recursive-staircase](ctci-recursive-staircase) |
