@@ -65,3 +65,10 @@ Collection of HackerRank solution
 |-|
 | [abbr](abbr) |
 | [max-array-sum](max-array-sum) |
+
+## Stacks and Queues
+
+| |
+|-|
+| [ctci-queue-using-two-stacks](ctci-queue-using-two-stacks) |
+| [balanced-brackets](balanced-brackets) |
