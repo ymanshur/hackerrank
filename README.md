@@ -58,3 +58,10 @@ Collection of HackerRank solution
 | |
 |-|
 | [swap-nodes-algo](swap-nodes-algo) |
+
+## Dynamic Programming
+
+| |
+|-|
+| [abbr](abbr) |
+| [max-array-sum](max-array-sum) |
