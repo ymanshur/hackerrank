@@ -55,10 +55,6 @@ Collection of HackerRank solution
 | [binary-search-tree-lowest-common-ancestor](binary-search-tree-lowest-common-ancestor) |
 | [tree-height-of-a-binary-tree](tree-height-of-a-binary-tree) |
 
-| |
-|-|
-| [swap-nodes-algo](swap-nodes-algo) |
-
 ## Dynamic Programming
 
 | |
