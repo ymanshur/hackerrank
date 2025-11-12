@@ -1,7 +1,7 @@
 
-# HackerRank Topics
+# HackerRank Prepare DSA
 
-Collection of HackerRank solution
+Collection of HackerRank solutions
 
 ## Arrays
 
@@ -89,3 +89,9 @@ Collection of HackerRank solution
 | |
 |-|
 | [ctci-recursive-staircase](ctci-recursive-staircase) |
+
+## Heap
+
+| |
+|-|
+| [jesse-and-cookies](jesse-and-cookies) |
